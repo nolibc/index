@@ -5,6 +5,6 @@
       "name": "cmake-default",
       "url": "https://github.com/nolibc/cmake-template.git",
       "tags": ["c++", "cmake", "application"]
-    },
+    }
   ]
 }
